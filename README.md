@@ -24,11 +24,11 @@ Pipeline Overview:
 	• Gold Layer (Databricks):
 		○ Transform data into Fact & Dimension Models with foreign key relationships
 
-
-  		Additional Services includes:
-		○ Databricks Mount for ADLS Access
-		○ Secure Credentials via Key Vault
-		○ Metadata-driven ETL Processing
+Additional Services Includes:
+-Databricks Mount for ADLS Access
+-Secure Credentials via Key Vault
+-Metadata-driven ETL Processing
+		
   
 This project ensures a scalable, efficient, and secure data pipeline for handling healthcare data. 
 
