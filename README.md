@@ -33,6 +33,6 @@ Additional Services Includes:
 -Metadata-driven ETL Processing
 		
   
-This project ensures a scalable, efficient, and secure data pipeline for handling healthcare data. 
+This project ensures a scalable, efficient, and secure data pipeline for handling healthcare data.
 
 
